@@ -1,0 +1,1 @@
+This repository demonstrates a common error in HTML, where a developer attempts to modify the visibility of an element using inline styling via Javascript.  The example shows an incorrect method and the solution provides the correct approach.
